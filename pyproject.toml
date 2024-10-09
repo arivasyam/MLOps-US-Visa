@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "us_visa"
+version = "0.0.0"
+description = "MLOps project for US Visa"
+authors = [{name = "pay", email = "arivasyamm@example.com"}]
+
